@@ -1,8 +1,8 @@
 import { Box, Container, VStack, Heading, Text, Button, Image, Flex } from "@chakra-ui/react";
 import { FaTshirt, FaHoodie } from "react-icons/fa";
 import { GiHoodie } from "react-icons/gi";
-import shirtsImage from "../images/shirts.jpg";
-import hoodiesImage from "../images/hoodies.jpg";
+import shirtsImage from "../../public/images/shirts.jpg";
+import hoodiesImage from "../../public/images/hoodies.jpg";
 
 const Index = () => {
   return (
